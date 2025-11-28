@@ -1,4 +1,3 @@
-# python-string-basics
 # String Processing Program (Python)
 
 This is a beginner **Python** program that practices working with strings, loops, and character counting.
